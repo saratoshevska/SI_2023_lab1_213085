@@ -1,0 +1,99 @@
+commit 1ecddf9e7132d18360be2a7df09190b437fe1e5f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:38:07 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit de217d2cb8b20743cd9e42fff9efec88d29d4ab0
+Merge: 56f8c6b bebdcad
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:42:15 2023 +0200
+
+    Merge branch 'bug2'
+    Fix wrong condition in filterOddNumbers method.
+
+commit 1ecddf9e7132d18360be2a7df09190b437fe1e5f (HEAD -> master, origin/master,
+origin/bug3, bug3)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:38:07 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit de217d2cb8b20743cd9e42fff9efec88d29d4ab0
+Merge: 56f8c6b bebdcad
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:42:15 2023 +0200
+
+    Merge branch 'bug2'
+    Fix wrong condition in filterOddNumbers method.
+
+commit bebdcadd33363dda538cc064ae1e0c679851c2fd (origin/bug2, bug2)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:35:46 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 56f8c6b51cd688f32a0f2b2976a3a2c227bc5739 (origin/bug1, bug1)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+:
+commit 1ecddf9e7132d18360be2a7df09190b437fe1e5f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:38:07 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit de217d2cb8b20743cd9e42fff9efec88d29d4ab0
+Merge: 56f8c6b bebdcad
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:42:15 2023 +0200
+
+    Merge branch 'bug2'
+    Fix wrong condition in filterOddNumbers method.
+
+commit bebdcadd33363dda538cc064ae1e0c679851c2fd (origin/bug2, bug2)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:35:46 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 56f8c6b51cd688f32a0f2b2976a3a2c227bc5739 (origin/bug1, bug1)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:33:19 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 7e053446eb33496f6deb85ca5a0f9f5e2b257bb2
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:28:10 2023 +0200
+
+    Add java class
+
+commit d5dd37e2e5cf842983209e379181483cd264f05b
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:26:39 2023 +0200
+
+    Initial commit
+(END)
+commit bebdcadd33363dda538cc064ae1e0c679851c2fd (origin/bug2, bug2)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:35:46 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 56f8c6b51cd688f32a0f2b2976a3a2c227bc5739 (origin/bug1, bug1)
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:33:19 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 7e053446eb33496f6deb85ca5a0f9f5e2b257bb2
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:28:10 2023 +0200
+
+    Add java class
+
+commit d5dd37e2e5cf842983209e379181483cd264f05b
+Author: Sara Toshevska <saratoshevska997@gmail.com>
+Date:   Fri Mar 31 19:26:39 2023 +0200
+
+    Initial commit
